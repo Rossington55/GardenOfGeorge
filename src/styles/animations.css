@@ -1,0 +1,3 @@
+.size-anim {
+  transition: width 1s, min-width 1s, height 1s;
+}
